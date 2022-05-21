@@ -1,6 +1,4 @@
 
-#include <WiFi.h>           // WiFi control for ESP32
-
 #include <ModbusMaster.h>
 
 #define RXD2 16
